@@ -1,13 +1,22 @@
 {
-  "name": "lesson89",
+  "name": "project_course_js",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple app - an online store, which is the result of a course on native JS (tabs, modal window, timer, calculator, slider, send data script, using classes to create menu cards, custom webpack config)",
+  "repository": "https://github.com/gwyn-developer/project_course_JS",
+  "homepage": "https://gwyn-developer.github.io/project_course_JS/",
+  "author": "Alexei Ovchinnikov <ovao89@mail.ru>",
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "javascript",
+    "webpack",
+    "html",
+    "css"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
   "browserslist": [
     "> 1%"
   ],
