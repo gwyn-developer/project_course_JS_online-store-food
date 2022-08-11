@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Simple app - an online store, which is the result of a course on native JS (tabs, modal window, timer, calculator, slider, send data script, using classes to create menu cards, custom webpack config)",
   "repository": "https://github.com/gwyn-developer/project_course_JS_online-store-food",
-  "homepage": "https://gwyn-developer.github.io/project_course_JS/",
+  "homepage": "https://project-course-js-online-store-food.vercel.app/",
   "author": "Alexei Ovchinnikov <ovao89@mail.ru>",
   "license": "MIT",
   "keywords": [
